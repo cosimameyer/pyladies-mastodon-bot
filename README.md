@@ -1,6 +1,8 @@
 PyLadies Mastodon bot
 ==========================================================
 
+> This bot is still WIP and the current version presents a MVP.
+
 This bot is inspired by the [Rebooster bot](https://github.com/Lambdanaut/Rebooster/) as well as these two blog posts ([blog post on building a Mastodon bot](https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/) and [blog post on deploying a bot with AWS Lambda](https://frankcorso.dev/aws-lambda-python-twitter-bot.html) and how to deploy another bot using [AWS Lambda](https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/)) and extended to fit the purpose of the use case.
 
 To promote gender diversity in the programming world, this bot can (or will in the future):
