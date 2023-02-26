@@ -1,0 +1,6 @@
+venv/
+package
+*.zip
+.env
+.DS_Store
+requirements.txt
