@@ -64,6 +64,7 @@ If you want to set up your own Mastodon bot and contribute to the Mastodon commu
         - `zip pyladies-bot.zip lambda_function.py`
         - `zip pyladies-bot.zip config.py`
         - `zip pyladies-bot.zip .env`
+        - `zip rladies-bot.zip rladies_bot_clientcred.secret`
 
 ## Set up an AWS account
 
